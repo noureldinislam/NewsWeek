@@ -1,7 +1,9 @@
 # NEWSWEEK MAGAZINE
 
-## Languages used: HTML, CSS, Bootstrap
+# This project is cloned
 
-# Live Link: https://noureldinislam.github.io/NewsWeek/
+### Languages used: HTML, CSS, Bootstrap
 
-## Author: Nour Islam
+### Live Link: https://noureldinislam.github.io/NewsWeek/
+
+### Author: Nour Islam
